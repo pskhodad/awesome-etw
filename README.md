@@ -2,6 +2,7 @@
 A collection of awesome things regarding Event Tracing for Windows(ETW) framework
 
 ### Tutorials
+- [About Event Tracing](https://docs.microsoft.com/en-us/windows/win32/etw/about-event-tracing)
 - [ETW Overview](https://docs.microsoft.com/en-us/archive/blogs/dcook/etw-overview)
 - [ETW Manifest based provider Hello World](https://kallanreed.wordpress.com/2016/05/28/creating-an-etw-provider-step-by-step)
 - [ETW TraceLogging Hello World](https://docs.microsoft.com/en-us/windows/win32/tracelogging/tracelogging-native-quick-start)
