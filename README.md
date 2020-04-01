@@ -19,3 +19,4 @@ A collection of awesome things regarding Event Tracing for Windows(ETW) framewor
 - [KrabsETW - ETW trace consumption functions](https://github.com/microsoft/krabsetw.git)
 - [UIforETW - User interface for recording and managing ETW traces](https://github.com/google/UIforETW)
 - [WEPExplorer - UI to view ETW providers and their detailed information](https://github.com/lallousx86/WinTools/tree/master/WEPExplorer)
+- [Log Monitor - Log Monitor is a log tool for Windows Containers. It monitors configured log sources and pipes a formatted output to a configured output location](https://github.com/microsoft/windows-container-tools/tree/master/LogMonitor)
