@@ -13,6 +13,7 @@ A collection of awesome things regarding Event Tracing for Windows(ETW) framewor
 - [ETW event relogging documentation](https://docs.microsoft.com/en-us/windows/win32/api/relogger/nn-relogger-itracerelogger)
 - [ETW event reloggging sample](https://github.com/intel/IntelSEAPI/blob/master/sea_itt_lib/ETLRelogger.cpp)
 - [Consuming ETW events in real-time](https://medium.com/@pskhodad/consuming-etw-events-in-real-time-part-i-510b4177149c)
+- [Logman and Xperf](https://blog.mozilla.org/sfink/2010/11/03/etw-part-4-collection/)
 
 ### Tools
 - [PresentMon - Tool for collection and processing of ETW events related to DXGI presentation](https://github.com/GameTechDev/PresentMon.git)
